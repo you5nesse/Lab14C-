@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1794412595 source:c:\users\pc\documents\sql_lab1\14.2\main.cpp
+	<iostream>
+	<stdexcept>
+
